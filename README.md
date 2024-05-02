@@ -1,1 +1,1 @@
-# Galeri-Photo
+# Galeri-Photo Bootstrap
